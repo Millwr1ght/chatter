@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">chatter</string>
+    <string name="title">Chatter</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signIn">Sign In</string>
+    <string name="title_activity_sign_in">sign_in</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="email">email</string>
+    <string name="submit">submit</string>
+    <string name="password">password</string>
 </resources>
